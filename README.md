@@ -22,3 +22,9 @@ git clone https://github.com/your-username/ai-resume-analyzer.git
 cd ai-resume-analyzer
 pip install -r requirements.txt
 streamlit run app.py
+
+## 👨‍💻 Author
+
+**Joncy Keda**
+
+AI Developer
