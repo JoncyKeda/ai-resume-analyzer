@@ -23,6 +23,8 @@ cd ai-resume-analyzer
 pip install -r requirements.txt
 streamlit run app.py
 
+---
+
 ## 👨‍💻 Author
 
 **Joncy Keda**
